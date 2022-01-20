@@ -19,3 +19,5 @@ Editing from My test VM instead of rstudio.cloud
 New addition after suspending my session
 
 Hacking on gitcreds now
+
+Seeing if GITHUB_PAT_GITHUB_COM works
