@@ -15,3 +15,5 @@ More editing to test GITHUB_PAT set in .Renviron
 Next line from new computer with GITHUB_PAT set.
 
 Editing from My test VM instead of rstudio.cloud
+
+New addition after suspending my session
