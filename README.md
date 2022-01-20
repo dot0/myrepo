@@ -21,3 +21,5 @@ New addition after suspending my session
 Hacking on gitcreds now
 
 Seeing if GITHUB_PAT_GITHUB_COM works
+
+Somehow the .Rprofile seems to not show the variable
