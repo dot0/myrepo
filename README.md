@@ -15,3 +15,5 @@ Scrubbing it all
 trying to use the 'store' helper
 
 Storing in my git config?
+
+still trying to get the store helper working right
