@@ -11,3 +11,5 @@ Adding a fifth line from another computer.
 
 
 Scrubbing it all 
+
+trying to use the 'store' helper
